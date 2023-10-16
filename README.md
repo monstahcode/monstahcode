@@ -1,7 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Iván
-=============================================================================
-Future developer
-=============================================================================
+Hi 👋 My name is Iván
+============================================================================================================================
+
+Future developer ⌨️
+============================================================================================================================
 I've been studying coding for almost a year, I'm really focus on my journey and creating new skills and knowledge, so in this profile you can see how I'm going. Looking forward to new projects and continue practicing.
 * 🌍  I'm based in Spain 🇪🇸
 * 🧠  I'm learning Java and web development
@@ -24,10 +25,10 @@ src="https://img.shields.io/github/followers/monstahcode?logo=github&style=for-t
 
 ### Badges
 
+<img src="https://media.tenor.com/3cPCsMFUeTAAAAAd/bocchi-bocchi-the-rock.gif" />
+
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/monstahcode"><img src="https://github-readme-stats.vercel.app/api?username=monstahcode&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="monstahcode's GitHub stats" /></a>
+<a href="https://github.com/monstahcode" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monstahcode&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="http://www.github.com/monstahcode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=monstahcode&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
-
-<a href="https://github.com/monstahcode" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monstahcode&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a aling="left" href="http://www.github.com/monstahcode"><img src="https://github-readme-stats.vercel.app/api?username=monstahcode&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="monstahcode's GitHub stats" /></a> <a aling="left" href="http://www.github.com/monstahcode"><img src="https://github-readme-streak-stats.herokuapp.com/?user=monstahcode&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a> 
