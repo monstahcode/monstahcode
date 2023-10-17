@@ -1,4 +1,4 @@
-Hi 👋 My name is Iván
+Hi 👋 my name is Iván
 ============================================================================================================================
 
 Future developer ⌨️
@@ -6,8 +6,8 @@ Future developer ⌨️
 I've been studying coding for almost a year, I'm really focus on my journey and creating new skills and knowledge, so in this profile you can see how I'm going. Looking forward to new projects and continue practicing.
 * 🌍  I'm based in Spain 🇪🇸
 * 🧠  I'm learning Java and web development
-* 🤝  I'm open to collaborating on Any kind of project which helps me grow
-* ⚡  Previously I got a degree in Microcomputer systems, and networks and currently a student of web development and miltiplatform development,
+* 🤝  I'm open to collaborating on any kind of project which helps me grow
+* ⚡  Previously I got a degree in Microcomputer systems and networks, currently a student of web development and multiplatform development.
 
 <a href="https://www.github.com/monstahcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/monstahcode?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
