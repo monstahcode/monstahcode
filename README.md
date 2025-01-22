@@ -4,7 +4,7 @@ Hi 👋 my name is Iván
 Future developer ⌨️
 ============================================================================================================================
 I've been studying coding for almost a year, I'm really focus on my journey and creating new skills and knowledge, so in this profile you can see how I'm going. Looking forward to new projects and continue practicing.
-* 🌍  I'm base in Spain 🇪🇸
+* 🌍  I'm based in Spain 🇪🇸
 * 🧠  I'm learning Java and web development
 * 🤝  I'm open to collaborating on any kind of project which helps me grow
 * ⚡  Previously I got a degree in Microcomputer systems and networks, currently a student of web development.
